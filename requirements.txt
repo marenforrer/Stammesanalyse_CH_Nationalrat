@@ -1,5 +1,5 @@
 numpy==1.26.0
-voila==0.5.4
+voila
 voila-material
 voila-vuetify
 bqplot
@@ -10,5 +10,6 @@ gunicorn>=21.2,<22.0
 dj-database-url>=2.0,<3.0
 whitenoise[brotli]>=6.0,<7.0
 ipykernel
+ipyvuetify
 ipython
 matplotlib
