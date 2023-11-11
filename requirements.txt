@@ -1,6 +1,7 @@
 numpy==1.26.0
 voila==0.5.4
 voila-material
+voila-vuetify
 bqplot
 numpy==1.26.0
 ipywidgets
